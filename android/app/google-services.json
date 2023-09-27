@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486937330143",
+    "project_id": "missing-children-app-80e70",
+    "storage_bucket": "missing-children-app-80e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486937330143:android:8f28fed90f269a1a1e046a",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0U9BehEtNWe2s2sUlwzYruUb_FpGpR_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
